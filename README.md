@@ -8,7 +8,7 @@ Grist appealed the agency's response — and won. We now have the exact location
 
 It should be noted that the release of this information does not change our analysis and only sharpens future researchers’ and newsrooms’ abilities to report on these facilities.
 
-The data are available above in `correction-program-listings.csv`. More information on the records request is available via our [press release](https://grist.org/updates/grist-releases-public-data-on-tribal-jail-and-detention-center-locations-in-the-us/).
+The data are available above in `correction-program-listings.pdf`, which has also been extracted to `correction-program-listings.csv`. More information on the records request is available via our [press release](https://grist.org/updates/grist-releases-public-data-on-tribal-jail-and-detention-center-locations-in-the-us/).
 
 
 ![A map of the United States showing the locations of tribal jails. By the end of the century, about one-third of facilities will experience more than 50 days per year in which the heat index will rise above 90ºF.](facilities-map.png)
