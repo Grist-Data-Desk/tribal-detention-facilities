@@ -1,6 +1,6 @@
 # Tribal jail and detention center locations in the US
 
-![A map of the United States showing the locations of tribal jails. By the end of the century, about one-third of facilities will experience more than 50 days per year in which the heat index will rise above 90ºF.](map_tribfacs_dots.webp)
+![A map of the United States showing the locations of tribal jails. By the end of the century, about one-third of facilities will experience more than 50 days per year in which the heat index will rise above 90ºF.](facilities-map.png)
 
 Grist is making a dataset on tribal jails in the United States available to journalists and the public after a hard-fought records battle.
 
