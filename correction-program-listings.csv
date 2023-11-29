@@ -1,4 +1,4 @@
-"",Facility,Physical Address,Mailing Address,City,ST
+ID,Facility,Physical Address,Mailing Address,City,State
 1,Metlakatla Adult Detention  Center,"235 8th Avenue, Metlakatla, Alaska 99926","P.O. Box 399, Metlakatla, Alaska 99926",Metlakatla,AK
 2,Colorado River Female Adult Detention Center,"2nd Ave & Mohave Road, Parker, AZ 85344","26600 Mohave Road, Parker AZ 85344",Parker,AZ
 3,Colorado River Juvenile Detention Center,"2nd Ave & Mohave Road, Parker, AZ 85344","26600 Mohave Road, Parker AZ 85344",Parker,AZ
@@ -13,7 +13,7 @@
 12,Navajo-Tuba City Adult Detention Center,"240 S. Main Street Bldg. B, Tuba City, AZ 86045","P.O. Box 1899, Tuba City, AZ 86045",Tuba City,AZ
 13,Navajo-Tuba City Juvenile Detention Center,"900 N. Main Street, Tuba City, AZ 86045","P.O. Box 1702, Tuba City, AZ 86045",Tuba City,AZ
 14,Navajo-Window Rock Adult Detention Center,"Route 12 and Window Rock Blvd, Window Rock, AZ 86515","P.O. Box 1949, Window Rock, AZ 86515",Window Rock,AZ
-15,Salt River Pima-Maricopa DOC Adult,"3213 N Longmore Road, Scottsdale, AZ 852563213 N Longmore Road, Scottsdale, AZ 85256",Scottsdale,AZ,
+15,Salt River Pima-Maricopa DOC Adult,"3213 N Longmore Road, Scottsdale, AZ 85256","3213 N Longmore Road, Scottsdale, AZ 85256",Scottsdale,AZ
 16,Salt River Pima-Maricopa DOC Juvenile,"3213 N Longmore Road, Scottsdale, AZ 85256","3213 N Longmore Road, Scottsdale, AZ 85256",Scottsdale,AZ
 17,San Carlos Apache Adult & Juvenile Detention Center,"Indian Route 6 Mile Post 10.5, San Carlos, AZ 85550","P.O. Box 1090, San Carlos AZ 85550",San Carlos,AZ
 18,Supai Holding Facility,"1010 East Main Trail, Supai, AZ 86435","P.O. Box 336, Peach Springs, AZ 86434",Supai,AZ
